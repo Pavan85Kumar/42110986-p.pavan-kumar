@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.bg{
+    background-color: white;
+}
+.top-b{
+    background-color: rgb(14, 99, 235);
+    width: 100vh;
+    height: 30px;
+       
+}
+li{
+    display: inline;
+    color: whitesmoke;
+    margin-left: 70px;
+}
+
+.r-div{
+    text-align: right;
+
+}
+.div-search{
+    display: inline;
+    color:black
+    
+}
+
+.types{
+    color: rgb(15, 7, 28);
+    margin-left: 60px;
+    font-weight: bold;
+}
+.mid{
+    background-color: orange;
+    width: 100vw;
+    height: 20vh;
+    text-align: center;
+    padding-top: 30px;
+    color: white;
+}
+
+.block{
+    height:13vh;
+    width: 100vw;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    }
+.logos{
+    height:15vh;
+    width:33vw;
+    color: black;
+    align-items: center;
+    padding: 20px;
+    }
+
+#lota{
+    background-color: aliceblue;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+#imge{
+    border-spacing: 20px;
+}
+#imge2{
+    border-spacing: 20px;
+}
